@@ -15,8 +15,17 @@ turma 2
 
 
 <hr>
-* GitHub *
-_ GitHub _
+**GitHub**
+<hr>
+<br>
+1. Aula1
+0. Aula2
+1. Aula3
+_GitHyb_
+ 
+.[] opção 1
+.[] opção 2
+.[] opção 3
 
 
 <!--
