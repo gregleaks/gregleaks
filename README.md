@@ -15,9 +15,8 @@ turma 2
 
 
 <hr>
-*GitHub*
-_GitHub_
-sla fazer issokk
+* GitHub *
+_ GitHub _
 
 
 <!--
