@@ -4,7 +4,7 @@
   
 Aula de git hub 12/04
   
-<b> Sesc Londrins Centro </b>
+<b> Sesc Londrina Centro </b>
 
 <hr>
 <hr>
