@@ -1,28 +1,6 @@
 # Gregs Bem vindo 
 
-  
-<b> Sesc Londrina Centro </b>
 
-<hr>
-<hr>
-
-Aula de informatica
-
-turma 2
-
-
-<hr>
-**GitHub**
-<hr>
-<br>
-1. Aula1
-0. Aula2
-1. Aula3
-_GitHyb_
- 
-.[] opção 1
-.[] opção 2
-.[] opção 3
 
 
 <!--
